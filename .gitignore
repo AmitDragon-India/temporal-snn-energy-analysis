@@ -1,0 +1,8 @@
+Amit_1/
+data/
+saved_models/
+snn_energy_project.ipynb
+snn_analysis_results.png
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
